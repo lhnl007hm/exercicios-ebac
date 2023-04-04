@@ -1,2 +1,4 @@
 # exercicios-ebac
-## Exercício de Análise de Qualidade, realizado para aprovação de módulo no curso de QA da EBAC.
+## Exercício realizados no curso de QA da EBAC.
+
+- 1. Análise de Qualidade
